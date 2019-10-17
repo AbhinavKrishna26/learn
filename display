@@ -1,0 +1,9 @@
+#include<iostream.h>
+#include<conio.h>
+viod main()
+{
+ int a,b;
+ cin>>"enter two no";
+ cout<<a*b<<"product of nos";
+ getch();
+ }
