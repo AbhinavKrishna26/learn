@@ -1,2 +1,2 @@
 # learn
-this is a readme for practice .
+this is a readme for practice.
